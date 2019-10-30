@@ -13,7 +13,7 @@
  * @see 	https://docs.woothemes.com/document/template-structure/
  * @author  WooThemes
  * @package WooCommerce/Templates
- * @version 3.5.2
+ * @version 31.5.2
  */
 
 // Exit if accessed directly

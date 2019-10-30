@@ -4,7 +4,7 @@
  *
  * @author 		WooThemes
  * @package 	WooCommerce/Templates
- * @version     4.3.2
+ * @version     41.3.2
  */
 
 defined( 'ABSPATH' ) || exit;

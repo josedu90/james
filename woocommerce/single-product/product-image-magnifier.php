@@ -4,7 +4,7 @@
  *
  * @author 		YIThemes
  * @package 	YITH_Magnifier/Templates
- * @version     1.1.2
+ * @version     11.1.2
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly

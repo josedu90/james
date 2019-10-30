@@ -4,7 +4,7 @@
  *
  * @author 		WooThemes
  * @package 	WooCommerce/Templates
- * @version    4.2.0
+ * @version    41.2.0
  */
 global $product;
 
